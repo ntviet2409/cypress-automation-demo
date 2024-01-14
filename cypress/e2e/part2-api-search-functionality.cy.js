@@ -46,7 +46,7 @@ describe('Match Listing View', () => {
         )
     })
 
-    it.only('API-05: Verify that the search returns valid result when missing sroffset', () => {
+    it('API-05: Verify that the search returns valid result when missing sroffset', () => {
         matchedKeywords.forEach((keyword) => {
             searchPage.querySearchByParamsWithMissingOffsetAndVerifyResponse(
                 keyword.name
