@@ -18,6 +18,7 @@
               </ul>
             </li>
             <li><a href="#usage">Usage</a></li>
+            <li><a href="#video-recording">Video Recording</a></li>
           </ol>
         </h5>    
     </details>
@@ -117,3 +118,13 @@ npm run ui
 
 -   Select suites (UI or API suites) to start execution
     ![Alt text](image-3.png)
+
+-   Test Result for UI Suites (2 TCs)
+    ![Alt text](image-5.png)
+
+-   Test Result for API Suites (4 TCs)
+    ![Alt text](image-4.png)
+
+## Video Recording
+
+Record your automation test run as a proof of tests passed [Video Recording](docs/Recording_Execution_Demo.mov)
