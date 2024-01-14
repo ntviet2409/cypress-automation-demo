@@ -1,6 +1,28 @@
 {
     "keywords": {
-        "validKeywords": ["Software Testing", "Automation Test", "Vietnam"],
-        "specialKeywords": ["!@#$%^&*()_+"]
+        "matchedResults": [
+            {
+                "name": "Software Testing",
+                "offset": 10
+            },
+            {
+                "name": "Automation Test",
+                "offset": 20
+            },
+            {
+                "name": "Vietnam",
+                "offset": 30
+            }
+        ],
+        "unmatchedResults": [
+            {
+                "name": "notFoundKeyword2024",
+                "offset": 10
+            }
+        ],
+        "unmatchedResultsWithNegativeOffset": {
+            "name": "notFoundKeyword2024",
+            "offset": -1
+        }
     }
 }

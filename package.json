@@ -1,7 +1,7 @@
 {
     "scripts": {
-        "debug:local": "npx cypress open",
-        "run:local": "npx cypress run"
+        "ui": "npx cypress open",
+        "cmd": "npx cypress run"
     },
     "devDependencies": {
         "cypress": "^13.6.2"
