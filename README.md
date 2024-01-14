@@ -122,9 +122,9 @@ npm run ui
 -   Test Result for UI Suites (2 TCs)
     ![Alt text](image-5.png)
 
--   Test Result for API Suites (4 TCs)
+-   Test Result for API Suites (5 TCs)
     ![Alt text](image-4.png)
 
 ## Video Recording
 
-Record your automation test run as a proof of tests passed [Video Recording](docs/Recording_Execution_Demo.mov)
+Record your automation test run as a proof of successful execution[Video Recording](docs/Recording_Execution_Demo.mov)
